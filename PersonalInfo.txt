@@ -9,3 +9,9 @@ Contact no.: 09457866726
 
 Mother: Maerladiza Albuen Sarcos			Occupation: Teacher
 Father: Aniceto Bacay Sarcos				Occupation: Civil Engineer
+
+Educational Background:
+	Elementary: Sariaya Institute Inc.
+	Junior High School: Sariaya Institute Inc.
+	Senior High School: University of Santo Tomas Senior High
+	College: University of Santo Tomas Bachelor of Science in Civil Engineering
